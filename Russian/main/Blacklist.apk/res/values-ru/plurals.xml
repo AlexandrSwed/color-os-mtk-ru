@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="title_block_sms">
+        <item quantity="other">Перехвачено %d сообщений</item>
+        <item quantity="one">Перехвачено %d сообщение</item>
+    </plurals>
+    <plurals name="title_block_sms_append">
+        <item quantity="other">, %d сообщений</item>
+        <item quantity="one">, %d сообщение</item>
+    </plurals>
+    <plurals name="title_block_phone">
+        <item quantity="other">Последние перехваченные %d вызовы</item>
+        <item quantity="one">Последний перехваченный %d вызов</item>
+    </plurals>
+</resources>

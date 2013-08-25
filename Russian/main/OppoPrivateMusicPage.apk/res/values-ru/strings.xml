@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Музыка</string>
+    <string name="unknown_music">Песен нет</string>
+    <string name="unknown_artist">Неизвестный исполнитель</string>
+</resources>

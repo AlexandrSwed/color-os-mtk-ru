@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Уведомление</item>
+        <item>E-mail</item>
+        <item>SMS</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>В срок</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>1 день</item>
+        <item>2 дня</item>
+    </string-array>
+    <string-array name="eventinfo_reminder_minutes_labels">
+        <item>В срок</item>
+        <item>За 15 мин до события</item>
+        <item>За 30 мин до события</item>
+        <item>За час до события</item>
+        <item>За 2 часа до события</item>
+        <item>За день до события</item>
+        <item>За 2 дня до события</item>
+    </string-array>
+    <string-array name="birthday_reminder_minutes_labels">
+        <item>В срок</item>
+        <item>1 день</item>
+        <item>2 дня</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>В срок</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>1 день</item>
+        <item>2 дня</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Ориентироваться на язык</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Занято</item>
+        <item>Доступно</item>
+        <item>Предварительно</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>По умолчанию</item>
+        <item>Скрыто</item>
+        <item>Доступно</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>первый</item>
+        <item>второй</item>
+        <item>третий</item>
+        <item>четвертый</item>
+        <item>последний</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Нет ответа</item>
+        <item>Да</item>
+        <item>Возможно</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Только эту встречу</item>
+        <item>Эту и последующие</item>
+        <item>Все встречи</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Только эту встречу</item>
+        <item>Все встречи в серии</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Месяц</item>
+        <item>Неделя</item>
+        <item>День</item>
+    </string-array>
+    <string-array name="english_month_number">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="calendar_spinner">
+        <item>Месяц</item>
+        <item>Неделя</item>
+        <item>День</item>
+    </string-array>
+    <string-array name="send_blessing">
+        <item>Отправить поздравление</item>
+        <item>Отправить поздравление по email</item>
+    </string-array>
+    <string-array name="go_weather_type">
+        <item>N/A</item>
+        <item>Солнечно</item>
+        <item>Облачно</item>
+        <item>Пасмурно</item>
+        <item>Снежно</item>
+        <item>Туман</item>
+        <item>Дождь</item>
+        <item>Шторм</item>
+    </string-array>
+</resources>

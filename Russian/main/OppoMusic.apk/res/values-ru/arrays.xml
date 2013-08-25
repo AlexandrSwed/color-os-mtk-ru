@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="eq_preset_entries">
+        <item>Выключено</item>
+        <item>По умолчанию</item>
+        <item>Рок</item>
+        <item>Джаз</item>
+        <item>Поп</item>
+        <item>Классическая</item>
+        <item>Кантри</item>
+        <item>Танцевальная</item>
+        <item>Метал</item>
+        <item>Ритм и Блюз</item>
+        <item>Хип-Хоп</item>
+        <item>Modern City</item>
+        <item>Обычная</item>
+    </string-array>
+    <string-array name="repeat_modes_entries">
+        <item>Выключить</item>
+        <item>Один раз</item>
+        <item>Все</item>
+    </string-array>
+    <string-array name="play_modes_entries">
+        <item>Последовательность</item>
+        <item>Один</item>
+        <item>Все</item>
+        <item>Режим случайного воспроизведения</item>
+    </string-array>
+    <string-array name="stop_playing_entries">
+        <item>Выключено</item>
+        <item>30 минут</item>
+        <item>60 минут</item>
+        <item>90 минут</item>
+        <item>настроить выключение времени вручную</item>
+    </string-array>
+    <string-array name="skin_entries">
+        <item>Обложка 1</item>
+        <item>Обложка 2</item>
+        <item>Обложка 3</item>
+    </string-array>
+    <string-array name="speaker_mode_entries">
+        <item>Выключено</item>
+        <item>Dolby Mobile</item>
+    </string-array>
+    <string-array name="headset_sound_effect_entries">
+        <item>Выключить</item>
+        <item>"Dolby Mobile "</item>
+        <item>Dirac эффект</item>
+    </string-array>
+    <string-array name="headset_sound_effect_entries_nodolby">
+        <item>Выключено</item>
+        <item>Dirac эффект</item>
+    </string-array>
+    <string-array name="pref_natural_bass_entries">
+        <item>Выключить</item>
+        <item>Нормальный</item>
+        <item>Средний</item>
+        <item>Сильный</item>
+    </string-array>
+    <string-array name="pref_hfe_entries">
+        <item>Выключить</item>
+        <item>Нормальный</item>
+        <item>Средний</item>
+        <item>Сильный</item>
+    </string-array>
+    <string-array name="pref_room_size_entries">
+        <item>Уровень 1</item>
+        <item>Уровень 2</item>
+        <item>Уровень5</item>
+    </string-array>
+    <string-array name="pref_brightness_entries">
+        <item>Низкий</item>
+        <item>Средний</item>
+        <item>Высокий</item>
+    </string-array>
+</resources>

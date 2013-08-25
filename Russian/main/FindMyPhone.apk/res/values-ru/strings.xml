@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Поиск телефона</string>
+    <string name="btn_call">Набор</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="title">Местоположение телефона</string>
+    <string name="sms_content">SIM-карта в Вашем телефоне изменена</string>
+    <string name="sim_changed_notify_title">Уведомление в случае смены SIM-карты</string>
+    <string name="sim_changed_notify_summary">Когда SIM-карта в Вашем телефоне будет заменена, на привязанный номер телефона придет сообщение</string>
+    <string name="find_phone_assign_number_hint">Привязать номер</string>
+    <string name="find_phone_cancel_btn">Отмена</string>
+    <string name="find_phone_close_btn">ВЫКЛ</string>
+    <string name="find_phone_title">Поиск телефона</string>
+    <string name="find_phone_close_confirm">После закрытия приложения, поиск телефона будет недоступен.</string>
+    <string name="find_phone_summary">Разрешить доступ к местонахождению телефона</string>
+    <string name="find_phone_visit_web">Если доступ к телефону утрачен, вы можете зайти на сайт(http://findphone.oppo.com) чтобы найти его, заблокировать экран или удалить важные данные.</string>
+    <string name="find_phone_alter_btn">Изменить</string>
+    <string name="find_phone_disable_btn">Отключить</string>
+    <string name="find_phone_enable_btn">Включить</string>
+    <string name="find_phone_input_error_tip">Пожалуйста, введите верный номер телефона!</string>
+    <string name="find_phone_open_no_network_message">Нет подключения к сети, использование Поиск телефона невозможно.</string>
+    <string name="find_phone_open_push_disable_message">Push-сервис отключен, использование Поиск телефона невозможно.</string>
+    <string name="find_phone_close_no_network_message">Нет доступа к сети, использование Поиск телефона невозможно. Пожалуйста, проверьте подключение к сети</string>
+    <string name="find_phone_close_push_disable_message">Push-сервис отключен, использование Поиск телефона невозможно. Пожалуйста, проверьте подключение к сети</string>
+    <string name="find_phone_password_verify_dialog_title">Поиск телефона отключен</string>
+    <string name="find_phone_password_verify_dialog_account">Текущий аккаунт:</string>
+    <string name="find_phone_password_verify_dialog_message_password_error">Неверный пароль, пожалуйста, повторите ввод</string>
+    <string name="find_phone_password_verify_dialog_message_net_error">Нет доступа к сети, проверьте подключение</string>
+    <string name="find_phone_password_verify_dialog_edittext_message">Введите пароль</string>
+    <string name="find_phone_password_verify_dialog_format_error">Пожалуйста, введите пароль в верном формате</string>
+    <string name="find_phone_password_verify_dialog_server_error">Ошибка сервера, пожалуйста, повторите попытку позднее</string>
+    <string name="find_phone_password_verify_dialog_retry_restrict">Пожалуйста, повторите попытку позднее</string>
+    <string name="find_phone_take_photo_message">Вы ввели неверный пароль 5 раз подряд, пожалуйста, повторите попытку позднее!</string>
+    <string name="find_phone_instruction">Инструкции</string>
+    <string name="find_phone_is_opening">Открывается, подождите...</string>
+    <string name="login_filed">Ошибка входа</string>
+    <string name="open_failed">Ошибка входа</string>
+    <string name="try_again">Повторить</string>
+    <string name="cancel">Отмена</string>
+    <string name="imei_is_null">IMEI не найден, функция поиска телефона отключена</string>
+    <string name="account_name_text">Войти в аккаунт NearMe</string>
+    <string name="notification">Подсказки</string>
+    <string name="find_phone_is_on">Функция поиска телефона включена</string>
+    <string name="find_phone_is_off">Функция поиска телефона отключена</string>
+	<string name="btn_register">Регистрация</string>
+</resources>

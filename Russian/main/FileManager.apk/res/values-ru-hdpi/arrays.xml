@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="multi_nav_text">
+        <item>По категориям</item>
+        <item>Память телефона</item>
+        <item>SD карта</item>
+        <item>Сетевой диск</item>
+    </string-array>
+    <string-array name="single_nav_text">
+        <item>По категориям</item>
+        <item>Память телефона</item>
+        <item>Сетевой диск</item>
+    </string-array>
+    <string-array name="single_select_search_path">
+        <item>Память телефона</item>
+        <item>Текущая папка</item>
+        <item>Выбрать</item>
+    </string-array>
+    <string-array name="netdisk_select_search_scope">
+        <item>Сетевой диск</item>
+        <item>Текущая папка</item>
+        <item>Произвольно</item>
+    </string-array>
+	<string-array name="netdisk_default_folder_names">
+        <item>Мое видео</item>
+        <item>Мои документы</item>
+        <item>Мой альбом</item>
+        <item>Моя музыка</item>
+    </string-array>
+    <string-array name="filebrowser_shortcutbar_title1">
+        <item>Назад</item>
+        <item>Новая папка</item>
+        <item>Скопировать в буфер</item>
+        <item>Отметить</item>
+        <item>Еще</item>
+    </string-array>
+    <string-array name="filebrowser_shortcutbar_title2">
+        <item>Поиск</item>
+        <item>Настройки</item>
+    </string-array>
+    <string-array name="category_text">
+        <item>музыка</item>
+        <item>видео</item>
+        <item>фото</item>
+        <item>документ</item>
+        <item>apk</item>
+        <item>zip</item>
+    </string-array>
+	<string-array name="nav_text">
+        <item>Категории</item>
+        <item>Телефон</item>
+        <item>Карта памяти</item>
+    </string-array>
+    <string-array name="image_text">
+        <item>С камеры</item>
+        <item>Другое изображение</item>
+    </string-array>
+    <string-array name="select_music_path_DefualtsItem">
+        <item>Стандартный</item>
+        <item>Выбрать</item>
+        <item>Восстановить по-умолчанию</item>
+    </string-array>
+    <string-array name="select_music_path_noDefualtItem">
+        <item>Стандартный</item>
+        <item>Выбрать</item>
+    </string-array>
+    <string-array name="select_music_path_more_DefualtsItem">
+        <item>Стандартный</item>
+        <item>Настроить</item>
+        <item>Восстановить по-умолчанию</item>
+        <item>Больше мелодий</item>
+    </string-array>
+    <string-array name="select_music_path_more_noDefualtItem">
+        <item>Стандартный</item>
+        <item>Настроить</item>
+        <item>Больше мелодий</item>
+    </string-array>
+    <string-array name="path_picker">
+        <item>Память телефона</item>
+        <item>SD карта</item>
+    </string-array>
+    <string-array name="sort_dialog_items">
+        <item>Имя</item>
+        <item>Размер</item>
+        <item>Дата по убыванию</item>
+    </string-array>
+	<string-array name="encryptable_default_folder_names">
+        <item>Мои записи</item>
+        <item>Мои видео</item>
+        <item>Мои изображения</item>
+        <item>Мои загрузки</item>
+        <item>Моя музыка</item>
+        <item>Мои фото</item>
+    </string-array>
+    <string-array name="select_search_path">
+        <item>Память телефона и SD карта</item>
+        <item>Память телефона</item>
+        <item>SD карта</item>
+        <item>Текущая папка</item>
+        <item>Настроить</item>
+    </string-array>
+</resources>

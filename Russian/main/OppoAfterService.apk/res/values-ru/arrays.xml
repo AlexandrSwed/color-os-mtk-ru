@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="address_handle_items">
+        <item>Копировать</item>
+        <item>Отправить в сообщении</item>
+    </string-array>
+</resources>

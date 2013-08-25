@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>^_^</item>
+        <item>^o^</item>
+        <item>\"^_^\"</item>
+        <item>(@_@)</item>
+        <item>~>_&amp;lt;~</item>
+        <item>\?_?</item>
+        <item>^_-</item>
+        <item>(-_-)</item>
+        <item>:^)</item>
+        <item>\@)--</item>
+        <item>:-&amp;lt;</item>
+        <item>:-(</item>
+        <item>":'-("</item>
+        <item>:-*</item>
+        <item>:-X</item>
+        <item>\\_/7</item>
+        <item>:-o</item>
+        <item>/&amp;lt;-/</item>
+        <item>:-{</item>
+        <item>(|0|)</item>
+        <item>\@_@</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Smiling</item>
+        <item>Exultation</item>
+        <item>Shy</item>
+        <item>Boring</item>
+        <item>Bad smile</item>
+        <item>Wondering</item>
+        <item>Naughty</item>
+        <item>Foolish</item>
+        <item>Side smile</item>
+        <item>Rose</item>
+        <item>Very sad</item>
+        <item>Sad look</item>
+        <item>Cry</item>
+        <item>Kiss</item>
+        <item>Sweet kiss</item>
+        <item>Tea/Coffee cup</item>
+        <item>Surprise</item>
+        <item>Delete</item>
+        <item>What?</item>
+        <item>Hamburger</item>
+        <item>Love letter</item>
+    </string-array>
+	<string-array name="special_locale_names">
+        <item>Please call the company back immediately.</item>
+        <item>请速给公司回电话。</item>
+        <item>請速給公司回電話。</item>
+		<item>Пожалуйста, позвоните в компанию немедленно.</item>
+        <item>Please call home back immediately.</item>
+        <item>请速给家里回电话。</item>
+        <item>請速給家裏回電話。</item>
+		<item>Пожалуйста, позвоните домой немедленно.</item>
+        <item>Busy now,call you back later.</item>
+        <item>我现在很忙，晚一些给你打电话。</item>
+        <item>我現在很忙，晚一些給你打電話。</item>
+		<item>Сейчас занят, позвоню позже</item>
+        <item>Something happens,I will be home later.</item>
+        <item>我有事，晚一点回家。</item>
+        <item>我有事，晚一點回家。</item>
+		<item>Что-то случилось, я буду дома позже.</item>
+        <item>Where are you now?</item>
+        <item>你现在在哪里？</item>
+        <item>你現在在哪里？</item>
+		<item>Где ты сейчас?</item>
+        <item>When will you arrive?</item>
+        <item>你什么时候到？</item>
+        <item>你什麼時候到？</item>
+		<item>Когда вы приедете</item>
+        <item>Call me if you are free.</item>
+        <item>有空请给我打电话。</item>
+        <item>有空請給我打電話。</item>
+		<item>Позвони мне когда освободишься.</item>
+        <item>It is urgent,date is cancelled.</item>
+        <item>我有急事，取消约会。</item>
+        <item>我有急事，取消約會。</item>
+		<item>Крайне важно, намеченная дата переносится.</item>
+        <item>Happy birthday,may everything goes well.</item>
+        <item>生日快乐，万事如意！</item>
+        <item>生日快樂，萬事如意！</item>
+		<item>С днем рождения, желаю тебе всего самого лучшего.</item>
+        <item>I wish you good health.</item>
+        <item>祝身体健康！</item>
+        <item>祝身體健康！</item>
+		<item>Желаю тебе крепкого здоровья</item>
+    </string-array>
+    <string-array name="dial_locale_names">
+        <item>Meeting time, call you back later.</item>
+        <item>正在开会，晚点给你回电话。</item>
+        <item>正在開會，晚點給你回電話。</item>
+		<item>Я на встрече, перезвоню позже.</item>
+        <item>Inconvenient to answer, call you back later.</item>
+        <item>现在不方便接听，稍后联系你。</item>
+        <item>現在不方便接聽，稍後聯繫你。</item>
+		<item>Неудобно говорить, я перезвоню позже.</item>
+        <item>Please wait,be arrived soon.</item>
+        <item>稍等，马上就到。</item>
+        <item>稍等，馬上就到。</item>
+		<item>Подождите, скоро буду.</item>
+        <item>Please use SMS.</item>
+        <item>请用短信联系。</item>
+        <item>請用短信聯繫。</item>
+		<item>Пожалуйста, используй SMS.</item>
+        <item>Who is calling please?</item>
+        <item>请问您是哪位？</item>
+        <item>請問您是哪位？</item>
+		<item>Кто звонил?</item>
+    </string-array>
+    <string-array name="dial_locale_names_exp">
+        <item>"Can't talk now. What's up?"</item>
+        <item>现在无法接听。有什么事吗？</item>
+        <item>我現在不方便通話，請問您有什麼事？</item>
+		<item>"Не могу говорить. Что случилось?"</item>
+        <item>"I'll call you right back."</item>
+        <item>我马上会打给你。</item>
+        <item>我待會就回電。</item>
+		<item>"Я перезвоню."</item>
+        <item>"I'll call you later."</item>
+        <item>我稍后会再打给你。</item>
+        <item>我晚點回電。</item>
+		<item>"Я перезвоню позже"</item>
+        <item>"Can't talk now. Call me later?"</item>
+        <item>现在无法接听。能稍后再打给我吗？</item>
+        <item>我現在不方便通話，請您晚點再打來好嗎？</item>
+		<item>"Не могу говорить сейчас. Перезвоните позже?"</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="oppo_repeat_type">
+        <item>Один раз</item>
+        <item>Ежедневно</item>
+        <item>По рабочим дням</item>
+        <item>Выбрать</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Телефона</item>
+        <item>SIMкартА</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 секунды</item>
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Другие…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Всегда</item>
+        <item>Только в режиме без звука</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="insert_dialog_items">
+        <item>Имя и номер</item>
+        <item>Журнал вызова</item>
+        <item>Шаблоны</item>
+        <item>Смайлик</item>
+    </string-array>
+    <string-array name="usemainnumexist_dialog_items">
+        <item>Сохранить</item>
+        <item>Набор</item>
+        <item>Копировать</item>
+        <item>Сохранить</item>
+        <item>Отправить SMS</item>
+    </string-array>
+    <string-array name="usemainnum_dialog_items">
+        <item>Набор</item>
+        <item>Изменить перед набором</item>
+        <item>Расположение номера</item>
+        <item>Детали контакта</item>
+    </string-array>
+    <string-array name="usesubnum_dialog_items">
+        <item>Набор</item>
+        <item>Сохранить</item>
+        <item>Отправить SMS</item>
+        <item>Изменить перед набором</item>
+        <item>Расположение номера</item>
+    </string-array>
+    <string-array name="use_unsaved_telephone_number">
+        <item>Набор</item>
+        <item>Изменить перед набором</item>
+        <item>Расположение номера</item>
+    </string-array>
+    <string-array name="email_dialog_items">
+        <item>Отправить письмо</item>
+        <item>Сохранить адрес эл. почты</item>
+        <item>Копировать адрес эл. почты</item>
+    </string-array>
+    <string-array name="emailexit_dialog_items">
+        <item>Отправить письмо</item>
+        <item>Сохранить адрес эл. почты</item>
+        <item>Скопировать адрес эл. почты</item>
+    </string-array>
+    <string-array name="web_dialog_items">
+        <item>Открыть</item>
+        <item>Сохранить тэг</item>
+        <item>Копировать URL</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LocalGridItemButtonStyle">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">@*android:color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">right</item>
+        <item name="android:background">@drawable/user_btn_selector</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">-3.3299866dip</item>
+        <item name="android:layout_marginRight">0.0dip</item>
+        <item name="android:text">@string/use_button_state_use</item>
+        <item name="android:shadowColor">#ff636363</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+</resources>

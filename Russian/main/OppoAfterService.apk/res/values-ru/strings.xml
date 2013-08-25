@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="oppo_after_service_info">Сервис "Послепродажное обслуживание OPPO"</string>
+    <string name="service_hotline_activity_title">Горячая линия "Послепродажное обслуживание OPPO"</string>
+    <string name="service_hotline_title">Горячая линия</string>
+    <string name="upgrade_online">Онлайн обновление</string>
+    <string name="service_mesh_point_title">Обслуживание сервиса "Послепродажное обслуживание OPPO"</string>
+    <string name="help_dialog_title">Помощь</string>
+    <string name="website_title">Веб-сайт</string>
+    <string name="help_dialog_msg">Чтобы получить лучший сервис, сервис "Послепродажное обслуживание OPPO" будет работать. Если есть обновления, посетите http://www.oppo.com для проверки (Mobile phone---Product service---After-sale), либо вы можете проконстультироваться по горячей линии 4001-666-888.</string>
+    <string name="detail_phone">Горячая линия</string>
+    <string name="detail_address">Адрес</string>
+    <string name="address_dialog_title">Выбор</string>
+    <string name="dial_dialog_title">Набрать горячую линию</string>
+    <string name="copy">Копировать</string>
+    <string name="copy_succeed">Скопированно</string>
+    <string name="send_by_message">Сообщение</string>
+    <string name="company_address_title">Адрес</string>
+    <string name="company_postcode_title">Почтовый индекс</string>
+    <string name="upgrade_dialog_msg">Сервисная сеть OPPO все время улучшается. Обновить информацию о сети сейчас?</string>
+    <string name="info_is_new">У вас последняя версия</string>
+    <string name="upgrade_fail">Ошибка обновления. Попробуйте позже.</string>
+    <string name="upgrading">Загрузка обновлений</string>
+    <string name="upgrading_dialog_msg">Подождите, идет загрузка...</string>
+    <string name="upgrade_success">Обновлено</string>
+    <string name="update_button_text">Обновить</string>
+    <string name="retry_button_text">Повторить</string>
+</resources>

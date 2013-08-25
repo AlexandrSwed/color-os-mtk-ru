@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода(plugin)</string>
+    <string name="appwidget_name">Погода</string>
+    <string name="no_city">Нет данных</string>
+    <string name="no_data">Нет данных</string>
+    <string name="local_weather">Мое местонахождение</string>
+    <string name="update_success">Данные погоды обновлены</string>
+    <string name="update_failed">Ошибка обновления погодных данных</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+	<string name="calendar">Календарь</string>
+    <string name="monday">ПН</string>
+    <string name="tuesday">ВТ</string>
+    <string name="wednesday">СР</string>
+    <string name="thursday">ЧТ</string>
+    <string name="friday">ПТ</string>
+    <string name="saturday">СБ</string>
+    <string name="sunday">ВС</string>
+</resources>

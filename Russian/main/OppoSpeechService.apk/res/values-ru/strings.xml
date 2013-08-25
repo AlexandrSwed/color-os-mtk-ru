@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Голосовые службы</string>
+    <string name="oppo_service_number_one">Обратная связь</string>
+    <string name="oppo_service_number_two">Горячая линия</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="title_block_sms">
+        <item quantity="other">Сообщений: %d</item>
+        <item quantity="one">Сообщение: %d</item>
+    </plurals>
+    <plurals name="title_block_sms_append">
+        <item quantity="other">, Сообщений:, %1$d</item>
+        <item quantity="one">, Сообщение:, %1$d</item>
+    </plurals>
+    <plurals name="title_block_phone">
+        <item quantity="other">Звонков: %1$d</item>
+        <item quantity="one">Звонок: %1$d</item>
+    </plurals>
+</resources>

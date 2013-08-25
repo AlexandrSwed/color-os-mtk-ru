@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="secure_title">Защита приложений</string>
+    <string name="oppo_password_controller_tips">Пожалуйста, введите пароль:</string>
+    <string name="oppo_password_controller_text_next">Продолжить</string>
+    <string name="oppo_password_controller_text_cancel">Отменить</string>
+    <string name="oppo_password_controller_text_ok">OK</string>
+    <string name="oppo_password_controller_text_retry">Повтор</string>
+    <string name="oppo_password_controller_password_empty">Пароль не может быть пустой!</string>
+    <string name="oppo_password_controller_input_password">Пожалуйста, введите пароль:</string>
+    <string name="oppo_password_controller_input_old_password">Введите старый пароль:</string>
+    <string name="oppo_password_controller_input_new_password">Введите новый пароль:</string>
+    <string name="oppo_password_controller_new_password_confirm">Подтверждите новый пароль:</string>
+    <string name="oppo_password_controller_password_confirm_error">Неправильное подтверждение пароля!</string>
+    <string name="oppo_password_controller_password_wrong">Ошибка пароля!</string>
+    <string name="oppo_password_controller_btn1">1</string>
+    <string name="oppo_password_controller_btn2">2</string>
+    <string name="oppo_password_controller_btn3">3</string>
+    <string name="oppo_password_controller_btn4">4</string>
+    <string name="oppo_password_controller_btn5">5</string>
+    <string name="oppo_password_controller_btn6">6</string>
+    <string name="oppo_password_controller_btn7">7</string>
+    <string name="oppo_password_controller_btn8">8</string>
+    <string name="oppo_password_controller_btn9">9</string>
+    <string name="oppo_password_controller_btn0">0</string>
+    <string name="oppo_pattern_controller_pattern_tips">Для создания графического ключа соедините как минимум 4 точки</string>
+    <string name="oppo_pattern_controller_pattern_too_short">Необходимо соединить как минимум 4 точки, попробуйте еще раз:</string>
+    <string name="oppo_pattern_controller_pattern_recorded">Графический ключ сохранен</string>
+    <string name="oppo_pattern_controller_pattern_confirm_right">Новый графический ключ разблокировки:</string>
+    <string name="oppo_pattern_controller_pattern_confirm_wrong">Извините, попробуйте еще раз</string>
+    <string name="oppo_pattern_controller_input_pattern">Пожалуйста, начертите графический ключ:</string>
+    <string name="oppo_pattern_controller_input_old_pattern">Пожалуйста, начертите старый графический ключ:</string>
+    <string name="oppo_pattern_controller_input_new_pattern">Пожалуйста, начертите новый графический ключ:</string>
+    <string name="oppo_pattern_controller_pattern_confirm">Для подтверждения начертите графический ключ повторно:</string>
+    <string name="oppo_pattern_controller_pattern_recording_inprogress">Отпустите палец чтобы завершить ввод.</string>
+    <string name="lockpassword_password_too_short">Пароль должен содержать не менее %d символов</string>
+    <string name="oppo_password_controller_text_emergency">Экстренный вызов</string>
+</resources>

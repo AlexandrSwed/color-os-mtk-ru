@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Оповещение</item>
+        <item>Эл. почта</item>
+        <item>SMS</item>
+    </string-array>
+    <integer-array name="reminder_methods_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 минут</item>
+        <item>1 минута</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>12 часов</item>
+        <item>24 часа</item>
+        <item>2 дня</item>
+        <item>1 неделя</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Нет</item>
+        <item>0 минут</item>
+        <item>1 минута</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>12 часов</item>
+        <item>24 часа</item>
+        <item>2 дня</item>
+        <item>1 неделя</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Региональные настройки по умолчанию</item>
+        <item>суббота</item>
+        <item>воскресенье</item>
+        <item>понедельник</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_values">
+        <item>-2</item>
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Маршалловы о-ва</item>
+        <item>Остров Мидуэй</item>
+        <item>Гавайи</item>
+        <item>Аляска</item>
+        <item>Тихоокеан. время</item>
+        <item>Тихуана</item>
+        <item>Аризона</item>
+        <item>Чиуауа</item>
+        <item>Горное время</item>
+        <item>Центр. Америка</item>
+        <item>Центр. время</item>
+        <item>Мехико</item>
+        <item>Саскачеван</item>
+        <item>Богота</item>
+        <item>Восточное время</item>
+        <item>Венесуэла</item>
+        <item>Атлантич. время</item>
+        <item>Манаус</item>
+        <item>Сантьяго</item>
+        <item>Ньюфаундленд</item>
+        <item>Бразилия</item>
+        <item>Буэнос-Айрес</item>
+        <item>Гренландия</item>
+        <item>Монтевидео</item>
+        <item>Центр. Атлантика</item>
+        <item>Азорские о-ва</item>
+        <item>О-ва Кабо-Верде</item>
+        <item>Касабланка</item>
+        <item>Лондон, Дублин</item>
+        <item>Амстердам, Берлин</item>
+        <item>Белград</item>
+        <item>Брюссель</item>
+        <item>Сараево</item>
+        <item>Виндхук</item>
+        <item>Зап.-афр. время</item>
+        <item>Амман, Иордания</item>
+        <item>Афины, Стамбул</item>
+        <item>Бейрут, Ливан</item>
+        <item>Каир</item>
+        <item>Хельсинки</item>
+        <item>Иерусалим</item>
+        <item>Минск</item>
+        <item>Хараре</item>
+        <item>Багдад</item>
+        <item>Москва</item>
+        <item>Кувейт</item>
+        <item>Найроби</item>
+        <item>Тегеран</item>
+        <item>Баку</item>
+        <item>Тбилиси</item>
+        <item>Ереван</item>
+        <item>Дубаи</item>
+        <item>Кабул</item>
+        <item>Исламабад, Карачи</item>
+        <item>Уральск</item>
+        <item>Екатеринбург</item>
+        <item>Калькутта</item>
+        <item>Шри-Ланка</item>
+        <item>Катманду</item>
+        <item>Астана</item>
+        <item>Янгон</item>
+        <item>Красноярск</item>
+        <item>Бангкок</item>
+        <item>Пекин</item>
+        <item>Гонконг</item>
+        <item>Иркутск</item>
+        <item>Куала-Лумпур</item>
+        <item>Перт</item>
+        <item>Тайбэй</item>
+        <item>Сеул</item>
+        <item>Токио, Осака</item>
+        <item>Якутск</item>
+        <item>Аделаида</item>
+        <item>Дарвин</item>
+        <item>Брисбен</item>
+        <item>Хобарт</item>
+        <item>Сидней, Канберра</item>
+        <item>Владивосток</item>
+        <item>Гуам</item>
+        <item>Магадан</item>
+        <item>Окленд</item>
+        <item>Фиджи</item>
+        <item>Тонга</item>
+    </string-array>
+    <string-array name="timezone_values">
+        <item>Тихоокеанский/Маджуро</item>
+        <item>Тихоокеанский/о-ва Мидуэй</item>
+        <item>Тихоокеанский/Гонолулу</item>
+        <item>Америка/Анкоридж</item>
+        <item>Америка/Лос-Анджелес</item>
+        <item>Америка/Тихуана</item>
+        <item>Америка/Финикс</item>
+        <item>Америка/Чиуауа</item>
+        <item>Америка/Денвер</item>
+        <item>Америка/Коста-Рика</item>
+        <item>Америка/Чикаго</item>
+        <item>Америка/Мехико</item>
+        <item>Америка/Реджайна</item>
+        <item>Америка/Богота</item>
+        <item>Америка/Нью-Йорк</item>
+        <item>Америка/Каракас</item>
+        <item>Америка/Барбадос</item>
+        <item>Америка/Манаус</item>
+        <item>Америка/Сантьяго</item>
+        <item>Америка/Сент-Джонс</item>
+        <item>Америка/Сан-Пауло</item>
+        <item>Америка/Аргентина/Буэнос-Айрес</item>
+        <item>Америка/Готхоб</item>
+        <item>Америка/Монтевидео</item>
+        <item>Атлантический/Южная Георгия</item>
+        <item>Атлантический/Азорские о-ва</item>
+        <item>Атлантический/о-ва Зеленого Мыса</item>
+        <item>Африка/Касабланка</item>
+        <item>Европа/Лондон</item>
+        <item>Европа/Амстердам</item>
+        <item>Европа/Белград</item>
+        <item>Европа/Брюссель</item>
+        <item>Европа/Сараево</item>
+        <item>Африка/Виндхук</item>
+        <item>Африка/Браззавиль</item>
+        <item>Азия/Амман</item>
+        <item>Европа/Афины</item>
+        <item>Азия/Бейрут</item>
+        <item>Африка/Каир</item>
+        <item>Европа/Хельсинки</item>
+        <item>Азия/Иерусалим</item>
+        <item>Европа/Минск</item>
+        <item>Африка/Хараре</item>
+        <item>Азия/Багдад</item>
+        <item>Европа/Москва</item>
+        <item>Азия/Кувейт</item>
+        <item>Африка/Найроби</item>
+        <item>Азия/Тегеран</item>
+        <item>Азия/Баку</item>
+        <item>Азия/Тбилиси</item>
+        <item>Азия/Ереван</item>
+        <item>Азия/Дубай</item>
+        <item>Азия/Кабул</item>
+        <item>Азия/Карачи</item>
+        <item>Азия/Уральск</item>
+        <item>Азия/Екатеринбург</item>
+        <item>Азия/Калькутта</item>
+        <item>Азия/Коломбо</item>
+        <item>Азия/Катманду</item>
+        <item>Азия/Алма-Ата</item>
+        <item>Азия/Рангун</item>
+        <item>Азия/Красноярск</item>
+        <item>Азия/Бангкок</item>
+        <item>Азия/Шанхай</item>
+        <item>Азия/Гонконг</item>
+        <item>Азия/Иркутск</item>
+        <item>Азия/Куала-Лумпур</item>
+        <item>Австралия/Перт</item>
+        <item>Азия/Тайбэй</item>
+        <item>Азия/Сеул</item>
+        <item>Азия/Токио</item>
+        <item>Азия/Якутск</item>
+        <item>Австралия/Аделаида</item>
+        <item>Австралия/Дарвин</item>
+        <item>Австралия/Брисбен</item>
+        <item>Австралия/Хобарт</item>
+        <item>Австралия/Сидней</item>
+        <item>Азия/Владивосток</item>
+        <item>Тихоокеанский/Гуам</item>
+        <item>Азия/Магадан</item>
+        <item>Тихоокеанский/Окленд</item>
+        <item>Тихоокеанский/Фиджи</item>
+        <item>Тихоокеанский/Тонгатапу</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Занят</item>
+        <item>Доступен</item>
+        <item>Может быть</item>
+    </string-array>
+    <integer-array name="availability_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="visibility">
+        <item>По умолчанию</item>
+        <item>Закрытое</item>
+        <item>Для всех</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>перв.</item>
+        <item>втор.</item>
+        <item>трет.</item>
+        <item>четверт.</item>
+        <item>последн.</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Нет ответов</item>
+        <item>Да</item>
+        <item>Может быть</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Только это мероприятие</item>
+        <item>Это и будущие мероприятия</item>
+        <item>Все мероприятия</item>
+    </string-array>
+    <integer-array name="delete_repeating_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="change_response_labels">
+        <item>Только это мероприятие</item>
+        <item>Все мероприятия в серии</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>День</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+        <item>Повестка дня</item>
+    </string-array>
+    <string-array name="calendar_month_header_array">
+        <item>Сб</item>
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+    </string-array>
+    <string-array name="prefs_vibrate_values">
+        <item>Сигнал</item>
+        <item>Вибрация</item>
+        <item>Сигнал и вибрация</item>
+    </string-array>
+    <string-array name="receive_dialog_content">
+        <item>Импорт событий</item>
+        <item>Сохранить в файл</item>
+    </string-array>
+    <string-array name="week_days">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+    <string-array name="end_repeat">
+        <item>Повторять всегда</item>
+        <item>Не повторять</item>
+    </string-array>
+    <string-array name="send_method">
+        <item>через SMS</item>
+        <item>через MMS</item>
+        <item>через email</item>
+        <item>по Bluetooth</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Всегда</item>
+        <item>Только в режиме без звука</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Это &amp;amp;amp;amp; последующие события</item>
+        <item>Все события</item>
+    </string-array>
+    <string-array name="calendar_buttons_list">
+        <item>День</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+    </string-array>
+    <string-array name="russia_feast">
+        <item>Новый год</item>
+        <item>Рождество Христово</item>
+        <item>День защитника Отечества</item>
+        <item>Международный женский день</item>
+        <item>Праздник весны и труда</item>
+        <item>День Победы</item>
+        <item>День России</item>
+        <item>День Государственного флага Российской Федерации</item>
+        <item>День народного единства</item>
+        <item>День всех влюбленных</item>
+        <item>Хэллоуин</item>
+        <item>День смеха</item>
+    </string-array>
+    <string-array name="english_feast">
+        <item>Новый год</item>
+        <item>День сурка</item>
+        <item>День святого Валентина</item>
+        <item>День Земли</item>
+        <item>День флага</item>
+        <item>День независимости</item>
+        <item>День патриота</item>
+        <item>Хэллоуин</item>
+        <item>День ветеранов</item>
+        <item>Перл-Харбор день</item>
+        <item>Рождество</item>
+    </string-array>
+    <string-array name="english_feast_rule1">
+        <item>День рождения Мартина Лютера Кинга</item>
+        <item>День рождения Вашингтона</item>
+        <item>день древонасаждения</item>
+        <item>День матери</item>
+        <item>День поминовения</item>
+        <item>День отца</item>
+        <item>День труда</item>
+        <item>День Колумба</item>
+        <item>День благодарения</item>
+    </string-array>
+    <string-array name="other_feast">
+        <item>День защиты детей</item>
+    </string-array>
+    <string-array name="western_feast">
+        <item>Рождество</item>
+        <item>День св.Валентина</item>
+        <item>Хеллоуин</item>
+        <item>1-е апреля</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Выбор способа подключения</string>
+	<string name="usb_no_ask_name">Не спрашивать в следующий раз</string>
+	<string name="usb_settings">USB-подключение</string>
+    <string name="usb_charge">Только зарядка</string>
+    <string name="usb_charge_detail">Зарядить телефон через USB</string>
+    <string name="usb_storage">Накопитель</string>
+    <string name="usb_storage_detail">Открыть память телефона</string>
+    <string name="usb_mtp">Режим мультимедиа</string>
+    <string name="usb_mtp_detail">Синхронизация с ПК</string>
+    <string name="usb_selection_processing">Обработка, пожалуйста, ждите…</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="avatar_operator">
+        <item>Сделать фото</item>
+        <item>из фото</item>
+        <item>Удалить выбранные фото</item>
+    </string-array>
+    <string-array name="security_questions_cn">
+        <item>Имя Вашего отца?</item>
+        <item>Имя Вашей матери?</item>
+        <item>Имя Вашего мужа/жены?</item>
+        <item>Название Вашей начальной школы?</item>
+        <item>Ваш лучший друг в детстве?</item>
+        <item>Ваш любимый учитель в начальной школе?</item>
+        <item>Ваш лучший друг в колледже?</item>
+        <item>Ваш идентификационный номер в школе (работе)?</item>
+        <item>Последние четыре цифры Вашего первого телефона?</item>
+        <item>Номер Ваших прав?</item>
+    </string-array>
+    <string-array name="constellations">
+        <item>Водолей</item>
+        <item>Рыбы</item>
+        <item>Овен</item>
+        <item>Телец</item>
+        <item>Близнецы</item>
+        <item>Рак</item>
+        <item>Лев</item>
+        <item>Дева</item>
+        <item>Весы</item>
+        <item>Скорпион</item>
+        <item>Стрелец</item>
+        <item>Козерог</item>
+    </string-array>
+</resources>

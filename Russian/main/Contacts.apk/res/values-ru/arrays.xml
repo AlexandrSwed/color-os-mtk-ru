@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="intelligent_dial">
+        <item>Интеллектуальный набор FirstSpell</item>
+        <item>Интеллектуальный набор PINYIN</item>
+        <item>Интеллектуальный набор First-Stroke</item>
+        <item>Интеллектуальный набор Number</item>
+    </string-array>
+    <string-array name="display_num">
+        <item>Закрыть</item>
+        <item>Показать контакты</item>
+        <item>Показать избранные</item>
+    </string-array>
+    <string-array name="type_press_sound">
+        <item>Тип 1</item>
+        <item>Тип 2</item>
+    </string-array>
+    <string-array name="type_ip_dial">
+        <item>12593</item>
+        <item>17911</item>
+        <item>17951</item>
+        <item>Закрыть</item>
+    </string-array>
+    <string-array name="type_ip_dial_Values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="dayofweek">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+		<item>Вчерашний день</item>
+    </string-array>
+	<string-array name="sim_choices">
+        <item>Показать все</item>
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+    </string-array>
+    <string-array name="call_log_choices">
+        <item>Все</item>
+        <item>Пропущенные</item>
+        <item>Исходящие</item>
+        <item>Входящие</item>
+        <item>Отклоненные</item>
+    </string-array>
+    <string-array name="call_log_choices_cmcc">
+        <item>Все</item>
+        <item>Пропущенные</item>
+        <item>Исходящие</item>
+        <item>Входящие</item>
+        <item>Отклоненные</item>
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+    </string-array>
+    <string-array name="oppo_replace_name_dialog_value">
+        <item>Копировать одноименный контакт</item>
+        <item>Заменить имени</item>
+    </string-array>
+    <string-array name="oppo_replace_name_dialog_summary">
+        <item>Скопировать все контакты, но не переписывать контакты с тем же именем</item>
+        <item>Скопировать все контакты, и переписывать контакты с тем же именем</item>
+        <item>Пропустить контакты с тем же именем</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Организация</item>
+        <item>Примечание</item>
+    </string-array>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="group_member_count">
+        <item quantity="other">%d персон</item>
+        <item quantity="one">%d персона</item>
+    </plurals>
+    <plurals name="oppo_msg_import_failed">
+        <item quantity="other">Ошибка импорта, %1$d контактов импортированно</item>
+        <item quantity="one">Ошибка испорта, %1$d контакт импортирован</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Контактов с номерами телефонов:%d</item>
+        <item quantity="one">Контакты с номерами телефона: 1</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Контактов:%d</item>
+        <item quantity="one">Контактов: 1</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Найдено контактов:%d</item>
+        <item quantity="one">Найден 1 контакт</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Найдено контактов:%d</item>
+        <item quantity="one">Найден 1 контакт</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">объединено из нескольких источников (%0$d)</item>
+        <item quantity="one">не объединен</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">Групп:%0$d</item>
+        <item quantity="one">1 группа</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d контактов в %2$s</item>
+        <item quantity="one">%1$d контактов в %2$s</item>
+    </plurals>
+	<plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d контактов</item>
+        <item quantity="one">%1$d контакт</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">Голосовых сообщений:%1$d</item>
+        <item quantity="one">Голосовое сообщение</item>
+    </plurals>
+</resources>

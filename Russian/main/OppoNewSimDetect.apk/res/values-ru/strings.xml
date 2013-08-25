@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Новая SIM-карта</string>
+    <string name="new_sim_inserted">Новая SIM-карта обнаружена</string>
+    <string name="change_setting_for_onenewsim">"Новая SIM-карта обнаружена. Она подписана как "</string>
+    <string name="change_setting_for_twonewsim">Новые SIM-карты обнаружены. Они подписаны как </string>
+    <string name="change_settings">Изменить</string>
+    <string name="default_sim_removed">SIM-карта по умолчанию удалена</string>
+    <string name="change_setting_for_removesim">Некоторые SIM-карты удалены. Теперь настройки по умолчанию такие:</string>
+    <string name="keyguard_voicecall">Вызовы:</string>
+    <string name="keyguard_sms">Сообщения:</string>
+    <string name="keyguard_data">Интернет:</string>
+    <string name="keyguard_alwaysask">Спрашивать</string>
+    <string name="keyguard_data_none">Откл.</string>
+    <string name="dismiss">Отклонить</string>
+    <string name="keyguard_wrong_code_input">Неправильный код.</string>
+    <string name="keyguard_code_length_prompt">Введите 4-8 цифр.</string>
+    <string name="keyguard_code_donnot_mismatch">"Не совпадают."</string>
+    <string name="for_text">для</string>
+    <string name="keyguard_internal_call">Внутренний вызов</string>
+    <string name="keyguard_not_set">Не установлено</string>
+    <string name="network_searching">Поиск новой сети</string>
+    <string name="searching_simcard">Определение...</string>
+    <string name="keyguard_close">Закрыть</string>
+    <string name="more_siminfo_for_button">Больше информации</string>
+    <string name="more_info_title">Разблокировка отмеченной SIM-карты</string>
+    <string name="for_first_simcard">Для первой SIM-карты</string>
+    <string name="for_second_simcard">Для второй SIM-карты</string>
+    <string name="new_sim_card_inserted">Вставлена новая SIM-карта </string>
+    <string name="new_sim_setting_prompt">Теперь настройки по умолчанию такие:</string>
+    <string name="keyguard_videocall">Видеовызовы:</string>
+    <string name="dm_prompt">Терминал заблокирован</string>
+</resources>

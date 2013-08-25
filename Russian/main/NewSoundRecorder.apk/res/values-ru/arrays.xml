@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_storage_entries_with_sdcard">
+        <item>Память телефона/Recordings</item>
+        <item>Карта памяти/Recordings</item>
+    </string-array>
+	<string-array name="pref_storage_values_with_sdcard">
+        <item>Память телефона</item>
+        <item>Карта памяти</item>
+    </string-array>
+	<string-array name="pref_storage_entries_no_sdcard">
+        <item>Память телефона/Recordings</item>
+    </string-array>
+    <string-array name="pref_storage_values_no_sdcard">
+        <item>Телефон</item>
+    </string-array>
+    <string-array name="pref_storage_entries_no_internal">
+        <item>Карта памяти/Recordings</item>
+    </string-array>
+    <string-array name="pref_storage_values_no_internal">
+        <item>Карта памяти</item>
+    </string-array>
+    <string-array name="pref_storage_entries_no_internal_and_sdcard">
+        <item>Хранилище недоступно</item>
+    </string-array>
+    <string-array name="pref_quality_entries">
+        <item>Стандартный</item>
+        <item>Высокий</item>
+    </string-array>
+	<string-array name="pref_quality_values">
+        <item>Стандартный</item>
+        <item>Высокий</item>
+    </string-array>
+</resources>

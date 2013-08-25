@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Экран блокировки Стекло</string>
+    <string name="unlockname">Стекло</string>
+    <string name="unlockAuthor">Стекло</string>
+    <string name="unlockVersion">1.0</string>
+    <string name="unlockDate">17-05-2012</string>
+    <string name="unlockResolution">854*480</string>
+    <string name="discription">Это лишь демо экрана блокировки</string>
+    <string name="lockscreen_charging_hint">Зарядка</string>
+    <string name="lockscreen_charged">Заряжено</string>
+    <string name="lockscreen_sound_on_label">Звук вкл.</string>
+    <string name="lockscreen_sound_off_label">Звук откл.</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
+    <string name="noservice">Нет сети</string>
+</resources>

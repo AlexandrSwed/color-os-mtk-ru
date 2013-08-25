@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OppoPopUp</string>
+	<string name="unknown">Неизвестно</string>
+    <string name="private_num">Личный номер</string>
+    <string name="payphone">Платный телефон</string>
+    <string name="miss_short_messages">Пропущенных сообщений</string>
+    <string name="miss_phones">Пропущенные вызовы</string>
+    <string name="scall_dialog_title">Пропущенных вызовов</string>
+    <string name="sms_dialog_title">Непрочитанных сообщений</string>
+    <string name="smeslist_dialog_title">Новое событие</string>
+    <string name="sms_dialog_look">Просмотреть</string>
+    <string name="sms_dialog_close">Отмена</string>
+    <string name="sshortmse_dialog_prompt">Сообщений:*</string>
+    <string name="miss_short_message">Пропущенное сообщение</string>
+    <string name="miss_phone">Пропущенных вызовов</string>
+</resources>

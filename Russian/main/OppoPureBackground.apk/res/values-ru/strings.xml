@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pure_background_title">Фоновые данные</string>
+	<string name="pure_background_title_onof">Инструкция сохранения данных</string>
+    <string name="pure_background_detail_on">Приложение предотвращает потребление загруженными приложениями трафика, электроэнергии и производительности процессора. Включение функции защитит Вас от загрузки вирусов и получения спам-сообщений.</string>
+    <string name="pure_background_detail_off">Чистый фон был отключен, мы рекомендуем Вам включить Чистый фон, что поможет Вам предотвратить нежелательную загрузку и получение спам-сообщений.</string>
+    <string name="pure_background_trust_app">Доверенные приложения</string>
+    <string name="pure_background_trust_app_set">Добавить доверенное приложение</string>
+    <string name="pure_background_trust_app_addmore">Добавить</string>
+    <string name="pure_background_applist_empty">Нет загруженных приложений</string>
+    <string name="pure_background_bgflow_ranking">Рейтинг по трафику</string>
+    <string name="pure_background_bgflow_ranking_empty">Рейтинг по трафику пуст</string>
+    <string name="pure_background_bgflow_ranking_more">Еще…</string>
+    <string name="pure_background_bgapp_manager_title">Управление фоновым режимом</string>
+    <string name="pure_background_bgapp_manager_allow">Позволить работать в фоновом режиме</string>
+    <string name="pure_background_bgapp_manager_froze">Отключить работу в фоновом режиме</string>
+    <string name="pure_background_bgapp_traffic">Трафик:</string>
+    <string name="pure_background_bgapp_no_traffic">Нет трафика</string>
+    <string name="pure_background_flowrank_reset">Сбросить ранжирование потока</string>
+    <string name="pure_background_flowrank_reset_time">Время последней перезагрузки:</string>
+</resources>

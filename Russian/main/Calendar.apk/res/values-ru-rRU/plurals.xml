@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%dмин. назад</item>
+        <item quantity="one">1 мин. назад</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%dмин. назад</item>
+        <item quantity="one">1 мин. назад</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%dч. назад</item>
+        <item quantity="one">1 час назад</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%dд. назад</item>
+        <item quantity="one">1 д. назад</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">Неделя%d</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">" и еще%d"</item>
+        <item quantity="one">" и еще 1"</item>
+    </plurals>
+</resources>

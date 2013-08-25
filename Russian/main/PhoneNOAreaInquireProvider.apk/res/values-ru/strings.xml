@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Расположение номера</string>
+    <string name="please_input_phoneno">Пожалуйста, введите номер телефона</string>
+    <string name="inquire">Поиск</string>
+    <string name="citynameis">Город:</string>
+    <string name="China">Китай</string>
+    <string name="unknown_city">Неизвестный город</string>
+    <string name="prevince_area">Провинция</string>
+    <string name="CREATETABLE_AREANO_AND_CITYNAMES">create table areano_and_citynames(_id integer primary key , areano text not null,cityname text not null, city_id integer)</string>
+    <string name="dbPath">/data/data/com.android.phonenoareainquire/databases/inquirenoarea.db</string>
+    <string name="originaldbPath">/system/phoneno_area_inquire/inquirenoarea.db</string>
+    <string name="updatedbPath">/sdcard/phonearea/inquirenoarea.db</string>
+    <string name="importdata">Импортировать данные</string>
+    <string name="resourceFile">/data/data/com.android.phonenoareainquire/databases/PhoneNumberData.dat</string>
+    <string name="originalResourceFile">/system/phoneno_area_inquire/PhoneNumberData.dat</string>
+    <string name="specialnum_resFile">/data/data/com.android.phonenoareainquire/databases/PhoneNumberData.dat</string>
+    <string name="specialnum_oriFile">/system/phoneno_area_inquire/special_num.dat</string>
+    <string name="updateResourceFile">/sdcard/phonearea/PhoneNumberData.dat</string>
+    <string name="text_title">Расположение номера</string>
+    <string name="text_hint">Введите номер телефона или код города</string>
+    <string name="text1">Проверка регионального кода:</string>
+    <string name="text2">Провинция</string>
+    <string name="text3">Город:</string>
+    <string name="text4">Код города</string>
+    <string name="text_hint2">Выберите страну</string>
+    <string name="text_hint3">Выберите город</string>
+    <string name="phone_inquire">Расположение номера</string>
+    <string name="areacode_inquire">Код региона</string>
+    <string name="btn_reset">Сброс</string>
+    <string name="btn_del">Удалить</string>
+    <string name="version_update">Обновить базу данных</string>
+    <string name="no_revert">Заводская версия, нет необходимости восстанавливать заводские настройки</string>
+    <string name="version_reduce">Восстановить данные</string>
+    <string name="reverting">Восстановление данных…</string>
+    <string name="updating">Обновление данных…</string>
+    <string name="version_info">Версия:</string>
+    <string name="dang_qian_ban">Текущая версия:</string>
+    <string name="explain_all">"Подсказка: 
+ Пожалуйста посетите http://www.oppo.ru
+ для загрузки обновленного ПО."</string>
+    <string name="explain">Инструкция:</string>
+    <string name="explain_q">Пожалуйста, пройдите по:</string>
+    <string name="explain_t">Загрузить обновленную базу данных</string>
+    <string name="update_before">Создать папку phonearea на SD карте и разместить в ней файл inquirenoarea.db</string>
+    <string name="update_not_find_file">Файл inquirenoarea.db не найден в папке phonearea на SD карте.</string>
+    <string name="update_latest_ver">Текущая версия является самой последней, обновление не требуется</string>
+    <string name="update_start">Начало обновления, это займет несколько секунд.</string>
+    <string name="update_end">Обновление завершено, оно вступит в силу после выхода из программы.</string>
+    <string name="update_error">Во время обновления произошла ошибка, изначальная версия была автоматически восстановлена</string>
+    <string name="update_ver_error">Невозможно прочитать версию обновленных данных, выйдите из режима обновления.</string>
+    <string name="update_read_error">Невозможно прочитать версию обновленных данных, выйдите из режима обновления.</string>
+    <string name="update_ver_read_error">Невозможно прочитать версию обновленных данных, выйдите из режима обновления.</string>
+    <string name="update_file_error">Пожалуйста подтвердите, что файл обновления является файлом, скаченным с официального сайта OPPO.</string>
+    <string name="update_unkonw_error">Неизвестная ошибка, невозможно обновить.</string>
+    <string name="revert_before">Восстановить настройки по умолчанию</string>
+    <string name="revert_start">Начать восстановление, это может занять несколько секунд.</string>
+    <string name="revert_end">Восстановление завершено и вступит в силу после выхода из программы</string>
+    <string name="revert_error">Неизвестная ошибка, пожалуйста, повторите попытку</string>
+    <string name="revert_not_find_file">Файл базы данных по умолчания не найден, восстановление невозможно</string>
+    <string name="location_hk">Гонконг(Китай)</string>
+    <string name="location_tw">Тайвань(Китай)</string>
+    <string name="location_mc">Макао(Китай)</string>
+    <string name="phone_number">Номер</string>
+    <string name="number_area">Расположение номера</string>
+</resources>

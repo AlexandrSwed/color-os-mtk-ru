@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">Треков:%d</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$d из %1$d треков</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">" Альбомов:%d"</item>
+        <item quantity="one">Альбом: 1</item>
+    </plurals>
+    <plurals name="StopTime">
+        <item quantity="other">%dмин.</item>
+        <item quantity="one">1 мин.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d треков добавлено в плей-лист</item>
+        <item quantity="one">1 трек добавлен в плей-лист</item>
+    </plurals>
+    <plurals name="NNNtrackstobedeleted">
+        <item quantity="other">Удалить %d треков</item>
+        <item quantity="one">Удалить трек из плей-листа?</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d треков удалено</item>
+        <item quantity="one">" 1 трек удален"</item>
+    </plurals>
+</resources>

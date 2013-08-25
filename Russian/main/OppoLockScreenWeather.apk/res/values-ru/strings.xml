@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Кольцо</string>
+    <string name="unlockname">Кольцо</string>
+    <string name="unlockAuthor">Кольцо</string>
+    <string name="unlockVersion">1.0</string>
+    <string name="unlockDate">2012/05/17</string>
+    <string name="unlockResolution">ALL</string>
+    <string name="discription">Кольцо</string>
+    <string name="degree">.</string>
+    <string name="charging">Зарядка: </string>
+    <string name="battery_full">Заряжено</string>
+    <string name="month_flag">Месяц</string>
+    <string name="month_day_flag">дн.</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="no_weather">Нет данных погоды</string>
+	<string name="description_direction_left">Слева для %s.</string>
+    <string name="description_direction_right">Справа для %s.</string>
+    <string name="description_target_unlock">Разблокировать</string>
+    <string name="description_target_camera">Камера</string>
+    <string name="default_txt_data">Пятница, 25 Декабря</string>
+    <string name="default_txt_weather_type">Гроза</string>
+    <string name="default_txt_temperature_detail">18-32</string>
+    <string name="weather_rainy">Дождь</string>
+    <string name="weather_sunny">Солнечно</string>
+    <string name="weather_cloudy">Облачно</string>
+    <string name="weather_sandstorm">Песчаная буря</string>
+    <string name="weather_goggy">Туман</string>
+    <string name="weather_overcast">Переменная облачность</string>
+    <string name="weather_snowy">Снег</string>
+    <string name="noservice">Нет сети</string>
+</resources>

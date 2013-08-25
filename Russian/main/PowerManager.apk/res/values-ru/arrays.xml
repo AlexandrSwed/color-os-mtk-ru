@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animations_entries">
+        <item>Без анимации</item>
+        <item>Часть анимации</item>
+        <item>Все анимации</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 с</item>
+        <item>30 с</item>
+        <item>1 мин</item>
+        <item>2 мин</item>
+        <item>10 мин</item>
+    </string-array>
+	<string-array name="presskey_light_timeout_entries">
+        <item>2 сек</item>
+        <item>6 сек</item>
+        <item>Всегда</item>
+        <item>Никогда</item>
+        <item>Только в темноте</item>
+    </string-array>
+	<string-array name="save_power_mode_entries">
+        <item>Долгий режим</item>
+        <item>Основной режим</item>
+        <item>Первый режим</item>
+    </string-array>
+    <string-array name="lock_timeout_entries">
+        <item>5 мин</item>
+        <item>15 мин</item>
+        <item>30 мин</item>
+        <item>1 ч</item>
+        <item>3 ч</item>
+    </string-array>
+</resources>
